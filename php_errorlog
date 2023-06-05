@@ -1,0 +1,1 @@
+[06-Dec-2022 12:20:32 Europe/London] PHP Fatal error:  require(): Failed opening required '/home/customer/www/e-bazaaronline.com/public_html/vendor/autoload.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/e-bazaaronline.com/public_html/index.php on line 24

@@ -1,0 +1,14 @@
+ 
+   @media (max-width: 375px) and ( max-width:667px) { 
+    body{
+        background-color: red;
+    }
+    
+    .product-list-container{
+        display: flex;
+        flex-direction: column;
+        width: 100%
+    }
+     }
+
+     
